@@ -1,4 +1,7 @@
 # PiratePay-Woocommerce-Plugin
+
+![PiratePayWoocommerceBanner](https://github.com/ARRRmada/PiratePay-Woocommerce-Plugin/assets/49843358/87a6b0ec-c246-4320-aa40-5c8eb24d9f3c)
+
  
 ## How to Setup PiratePay WooCommerce Plugin.
 
