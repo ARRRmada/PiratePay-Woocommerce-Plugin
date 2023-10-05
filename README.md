@@ -4,9 +4,9 @@
 
 Introduction - The PiratePay WooCommerce Plugin for Wordpress.
 
-Step #1: Download and install the PiratePay WooCommerce Plugin.
-Step #2: Generate Woocommerce & PiratePay API Keys.
-Step #3: Adjusting the PiratePay Settings.
+- Step #1: Download and install the PiratePay WooCommerce Plugin.
+- Step #2: Generate Woocommerce & PiratePay API Keys.
+- Step #3: Adjusting the PiratePay Settings.
 
 Introduction - The PiratePay Payment Gateway Application.
 
