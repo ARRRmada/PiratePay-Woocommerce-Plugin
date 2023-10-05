@@ -69,7 +69,8 @@ Click "REST API" in the header.
 
 Then press "add key".
 
-``` Description: PiratePay
+```
+Description: PiratePay
 User: Admin
 Permissions: Read/Write
 ```
