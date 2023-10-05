@@ -29,11 +29,12 @@ Go to the Plugins Section on the left.
 
 Click "Add New" at the top, click "Upload Plugin".
 
-Drag and Drop the Zip file you downloaded from github, and click "Install Now" ```
+Drag and Drop the Zip file you downloaded from github, and click "Install Now"
+```
 
 Option 2: Intermediate - Upload the Plugin using an FTP/SSH backend:
 
-Unzip the plugin and place the "piratepay-woocommerce-plugin" folder into your Wordpress Plugins Folder.
+``` Unzip the plugin and place the "piratepay-woocommerce-plugin" folder into your Wordpress Plugins Folder.
 
 This folder is typically located:
 
@@ -41,7 +42,7 @@ Apache:
 Public_html/wordpress/wp-content/plugins
 Nginx:
 var/www/wordpress/wp-content/plugins
-
+```
 
 Now that you've uploaded the plugin with one of the two methods above:
 
