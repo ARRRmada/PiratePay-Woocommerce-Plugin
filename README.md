@@ -17,7 +17,7 @@ Please note: You will need PiratePay setup and running to use this plugin. Click
 
 ## Step #1: Download and install the PiratePay WooCommerce Plugin.
 Download the latest PiratePay WooCommerce Plugin here:
-https://github.com/CryptocurrencyCheckout/PiratePay-Woocommerce-Plugin/releases
+https://github.com/ARRRmada/PiratePay-Woocommerce-Plugin/releases
 
 There are two ways to upload the plugin, choose one of the two options below:
 
@@ -69,12 +69,12 @@ Click "REST API" in the header.
 
 Then press "add key".
 
-Description: PiratePay
+``` Description: PiratePay
 User: Admin
 Permissions: Read/Write
+```
 
 Click: Generate API Key
-
 
 ## Step #3: Adjusting the PiratePay Settings.
 On the PiratePay Dashboards Settings Page:
